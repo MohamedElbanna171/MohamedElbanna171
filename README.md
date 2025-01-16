@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-My name is **Mohamed Elbanna**, and I have **2 years of experience** as a data analyst and visualization expert. I specialize in transforming complex datasets into actionable insights. My projects reflect my commitment to leveraging tools like **Power BI**, **Excel**, and **data visualization techniques** to uncover trends, optimize operations, and drive data-driven decision-making.
+My name is **Mohamed Elbanna**, and I have **2 years of experience** as a data analyst and visualization expert. I specialize in transforming complex datasets into actionable insights. My projects reflect my commitment to leveraging tools like **Power BI**, **Excel**, **Blinkit**, and **data visualization techniques** to uncover trends, optimize operations, and drive data-driven decision-making.
 
 ## 🚀 Highlights of My Work
 
@@ -25,7 +25,7 @@ My name is **Mohamed Elbanna**, and I have **2 years of experience** as a data a
 - Segment doctors, analyze session durations, and visualize client requests and session statuses to improve clinic operations.
 
 ## 🛠️ Tools and Technologies
-- **Data Visualization**: Power BI, Excel, Tableau
+- **Data Visualization**: Power BI, Excel, Tableau, Blinkit
 - **Data Analysis**: Python, SQL
 - **Collaboration**: GitHub, JIRA
 
