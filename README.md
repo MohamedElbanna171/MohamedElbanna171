@@ -16,9 +16,9 @@ My name is **Mohamed Elbanna**, and I have **2 years of experience** as a data a
 - Conducted market research for 343 companies across 60 industries using Power BI.
 - Highlighted market distribution, salary trends, and top-performing companies through detailed visualizations.
 
-### 🏬 Sales and Outlet Performance Analysis
-- Provided in-depth analysis of sales and outlet performance data.
-- Visualized metrics like total sales, item weight, and outlet ratings by type, size, and location.
+### 🚀 Blinkit
+- Provided advanced analytics and reporting using Blinkit to optimize operational efficiency.
+- Leveraged Blinkit for real-time insights into process workflows and performance improvements.
 
 ### 👥 Customer Behavior Analysis for Therapist Clinic
 - Analyzed customer behavior for a therapist clinic using Excel and Power BI.
