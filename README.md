@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm a passionate data analyst and visualization expert, specializing in transforming complex datasets into actionable insights. My projects reflect my commitment to leveraging tools like **Power BI**, **Excel**, and **data visualization techniques** to uncover trends, optimize operations, and drive data-driven decision-making.
+My name is **Mohamed Elbanna**, and I have **2 years of experience** as a data analyst and visualization expert. I specialize in transforming complex datasets into actionable insights. My projects reflect my commitment to leveraging tools like **Power BI**, **Excel**, and **data visualization techniques** to uncover trends, optimize operations, and drive data-driven decision-making.
 
 ## 🚀 Highlights of My Work
 
