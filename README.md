@@ -50,7 +50,9 @@ Geographic salary distribution
 - Provide a clear overview of property sales trends, payment collection, and client demographics to improve future strategy and agent performance.
 
 ### 🔹 Marketing Campaign Performance
-- An interactive dashboard that visualizes the success of a marketing campaign, focusing on customer engagement, age/job segmentation, and conversion rates to optimize future strategies.
+- An interactive dashboard that visualizes the success of a marketing campaign, focusing on customer engagement, age/job segmentation
+and conversion rates to optimize future strategies.
+
 -Understand which customer segments are more responsive to marketing campaigns, identify trends, and support data-driven marketing decisions.
 
 ## 🛠️ Tools and Technologies
