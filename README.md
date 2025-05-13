@@ -25,7 +25,7 @@ My name is **Mohamed Elbanna**, and I have **2 years of experience** as a data a
 - Segment doctors, analyze session durations, and visualize client requests and session statuses to improve clinic operations.
 
 ## 🛠️ Tools and Technologies
-- **Data Visualization**: Power BI, Excel, Tableau, Blinkit
+- **Data Visualization**: Power BI, Excel, Tableau
 - **Data Analysis**: Python, SQL
 - **Collaboration**: GitHub, JIRA
 
