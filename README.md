@@ -24,6 +24,21 @@ My name is **Mohamed Elbanna**, and I have **2 years of experience** as a data a
 - Analyzed customer behavior for a therapist clinic using Excel and Power BI.
 - Segment doctors, analyze session durations, and visualize client requests and session statuses to improve clinic operations.
 
+###  📊 Manufacturing Downtime Analysis – Power BI
+- A professional Power BI dashboard to analyze and reduce manufacturing downtime
+- Key Features:
+
+Interactive slicers (e.g. Operator Error: Yes/No)
+
+Top downtime factors by product, batch & operator
+
+KPIs: Downtime %, operators, batches, products
+
+Clear recommendations to improve efficiency
+
+📈 Built as part of a graduation project to drive data-based decisions and cut downtime costs.
+
+
 ## 🛠️ Tools and Technologies
 - **Data Visualization**: Power BI, Excel, Tableau
 - **Data Analysis**: Python, SQL
