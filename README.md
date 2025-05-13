@@ -36,9 +36,6 @@ KPIs: Downtime %, operators, batches, products
 
 Clear recommendations to improve efficiency
 
-📈 Built as part of a graduation project to drive data-based decisions and cut downtime costs.
-
-
 ## 🛠️ Tools and Technologies
 - **Data Visualization**: Power BI, Excel, Tableau
 - **Data Analysis**: Python, SQL
