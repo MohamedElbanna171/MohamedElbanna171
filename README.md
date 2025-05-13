@@ -27,14 +27,26 @@ My name is **Mohamed Elbanna**, and I have **2 years of experience** as a data a
 ###  📊 Manufacturing Downtime Analysis – Power BI
 - A professional Power BI dashboard to analyze and reduce manufacturing downtime
 - Key Features:
-
 Interactive slicers (e.g. Operator Error: Yes/No)
-
 Top downtime factors by product, batch & operator
-
 KPIs: Downtime %, operators, batches, products
-
 Clear recommendations to improve efficiency
+
+ ###  ✅ HR Analytics Dashboard
+Developed an interactive HR Analytics dashboard using Power BI as the final project for the "Power BI Mastery: Zero to Hero" Udemy course.
+The dashboard provides insights into employee attrition, satisfaction, and workforce trends using real HR data and DAX calculations.
+
+###  📊 Data Engineer Salaries Dashboard (Power BI)
+An interactive Power BI dashboard analyzing Data Engineer salaries from 2020 to 2024.
+Includes insights on:
+Average salary by year, experience, and job type
+Remote vs on-site work trends
+Top & bottom paying roles
+Geographic salary distribution
+🛠 Tools: Power BI, Excel/CSV
+
+
+
 
 ## 🛠️ Tools and Technologies
 - **Data Visualization**: Power BI, Excel, Tableau
